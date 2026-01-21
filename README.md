@@ -68,7 +68,7 @@ The goal of this project is to build a machine learning model that can automatic
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SoumyMittal/Spam-Mail-Detector
 2. Install required libraries:
    ```bash
    pip install numpy pandas nltk scikit-learn matplotlib seaborn
